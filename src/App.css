@@ -1,3 +1,12 @@
+.react {
+  background: aqua;
+  color: black;
+  font-Size: 48px;
+  font-Weight: bold;
+  padding: 16px;
+}
+
+
 .App {
   text-align: center;
 }
